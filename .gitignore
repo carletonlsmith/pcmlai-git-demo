@@ -1,0 +1,13 @@
+*.csv
+*.ipynb_checkpoints
+*.DS_Store
+*.ssh
+*.env
+*.log
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.cache
